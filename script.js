@@ -9,4 +9,4 @@ eyeicon.onclick = function() {
         password.type = "password";
         eyeicon.src = "eye-close.png"
     }
-}
+} 
